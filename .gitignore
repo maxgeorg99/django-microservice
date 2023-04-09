@@ -1,0 +1,3 @@
+polls/polls/__pycache__/*
+question/question/__pycache__/*
+vote/vote/__pycache__/*
